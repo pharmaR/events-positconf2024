@@ -1,27 +1,15 @@
 ---
-title: "Driving Consensus Through Repos"
+title: "Workstream Updates"
 author:
-  - name: "<span style='font-weight: bold;'>R/Pharma Summit @ Posit Conf 2024, August 11th</span>"
+  - name: "<span style='font-weight: bold;'>R Validation Hub, Aug 2024</span>"
   - name: "<span style='margin-left: 2.0em;'>Slides: 🔗  [bit.ly/PositConf24](https://pharmar.github.io/events-positconf2024)</span>"
   - name: "<br>"
-  - name: _On behalf of the R Validation Hub team:_
+  - name: _On behalf of the team:_
   - name: "<span style='margin-left: 2.0em;'>Aaron Clark</span> <span style='font-style: italic; margin-left: 0.5em;'><a href='http://arcusbio.com'>Arcus Biosciences</a></span>"
-  - name: "<span style='margin-left: 2.0em;'>Doug Kelkhoff</span> <span style='font-style: italic; margin-left: 0.5em;'><a href='http://www.roche.com'>Roche</a></span>"
 ---
 
 {{< include _r_val_hub_intro.qmd >}}
 
-# 📊 A Quick Survey
-
-Keep your hand raised if...
-
-:::: {.incremental}
-- [It's early morning and you need an excuse to stretch]{.fragment .semi-fade-out}
-- [This isn't your first time hearing about the ***R Validation Hub***]{.fragment .semi-fade-out}
-- [Your org leverages the ***R Validation Hub*** guidelines (risk-based approach)]{.fragment .semi-fade-out}
-- [Your org uses ***R Validation Hub*** tools (`{riskmetric}`, `{riskassessment}`)]{.fragment .semi-fade-out}
-- [Your org contributes to the ***R Validation Hub***]{.fragment .semi-fade-out}
-::::
 
 # 🗓️  Agenda
 
@@ -29,13 +17,10 @@ Keep your hand raised if...
 - `{riskassessment}` App Workstream [7min]{.dim}
 - `{riskmetric}` workstream [7min]{.dim}  
   _Watch for big changes coming_
-- Repositories Workstream  [25min]{.dim}
-- **Room Discussion** [10 - 15min]{.dim}
+- Repositories Workstream [0min]{.dim}  
 - Closing
 
 {{< include _r_val_hub_workstream_updates.qmd >}}
-
-{{< include _r_val_hub_repos_updates.qmd >}}
 
 # Closing
 
@@ -44,8 +29,9 @@ Keep your hand raised if...
 ### Upcoming Deliverables
 
 * `{riskmetric}` refocused on qualities, not scores
-* Enterprise package cohorts
-* Repositories pipelines
+* A Scoreless `{riskassessment}` app
+* A collaborative deployment
+* GxP Package Lists Analysis
 
 ### Key Opportunties
 
@@ -66,6 +52,6 @@ _our work is the product of the donated time of many passionate individuals_
 
 ::: { style="float: right;" }
 ::: { style="background: white; padding: 0.2em 1em; box-shadow: 0 0.15em 0.5em #0004; border-radius: 2em;" }
-_slides at [pharmar.github.io/events-positconf2024]()_
+_Slides: 🔗 [bit.ly/PositConf24](https://pharmar.github.io/events-positconf2024)_
 :::
 :::

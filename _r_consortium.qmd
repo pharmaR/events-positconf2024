@@ -18,55 +18,6 @@
 
 ::::
 
-## ![](resources/r-consortium.png){height="1.5em" style="padding: 0.2em; margin: 0 0.5em 0 0; border-radius: 0.5em; background: #FFF; vertical-align: middle;"} [R Consortium]{.hidden} Impact
-
-<style>
-.image-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.image-container img {
-  margin: 0.2em;
-  max-width: 7em;  /* Adjust the size of the images as needed */
-  vertical-align: middle;
-}
-</style>
-
-<div class="image-container">
-  <img src="resources/r-ladies-logo.png">
-  <img src="resources/latinr-logo.png">
-  <img src="resources/r-medicine-logo.png">
-  <img src="resources/useR-logo.png">
-</div>
-
-::: {.columns}
-::: {.column width="25%" .panel .center .font-size-smaller}
-### Community Grants & Sponsorships
-Over USD $1.4 Million
-:::
-
-::: {.column width="25%" .panel .center .font-size-smaller}
-### Organizing Large Scale Collaborative Projects
-R Validation Hub, R-Ladies
-:::
-
-::: {.column width="25%" .panel .center .font-size-smaller}
-### Co-Host Multidisciplinary Data Science Forums
-Stanford Data Institute
-:::
-
-::: {.column width="25%" .panel .center .font-size-smaller}
-### Direct Support for Key R Events
-R/Medicine, R/Pharma, useR!, LatinR, and more
-:::
-
-::: {.column width="25%" .panel .center .font-size-smaller}
-### Direct Worldwide Support for R User Groups
-:::
-:::
-
 ## Join the R Consortium
 
 ### [r-consortium.org](https://www.r-consortium.org)
