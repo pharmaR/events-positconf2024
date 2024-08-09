@@ -282,19 +282,6 @@ All of these improvements started off as community-driven suggestions on our Git
     - **Metrics, Yes! Scoring, No. In fact...**
 :::
 
-## ![](resources/riskmetric.png){height="1.8em" width="1.8em" style="margin: 0 0.2em; object-fit: contain;vertical-align: middle;"} `{riskmetric}` Usage Survey 🔄
-
-<br>
-
-**Does your organization use {riskmetric} for risk decision-making? If so, how?**
-
-- No
-- Yes, we use the _default summarized scores_
-- Yes, we use the _default metric scores, but_ apply custom logic
-- Yes, we use the _assessment information_ to define a _decision tree_
-- Yes, we use the _assessment information_ and make a decision on _a case-by-case basis_
-- Other (free text)
-
 
 ## ![](resources/riskassessment.png){height="1.8em" width="1.8em" style="margin: 0 0.2em; object-fit: contain;vertical-align: middle;"} ![](resources/riskmetric.png){height="1.8em" width="1.8em" style="margin: 0 0.2em; object-fit: contain;vertical-align: middle;"} "Risk Tools" Today
 
