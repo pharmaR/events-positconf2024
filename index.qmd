@@ -1,7 +1,7 @@
 ---
 title: "Workstream Updates"
 author:
-  - name: "<span style='font-weight: bold;'>R Validation Hub, Aug 2024</span>"
+  - name: "<span style='font-weight: bold;'>R Validation Hub, Summer 2024</span>"
   - name: "<span style='margin-left: 2.0em;'>Slides: 🔗  [bit.ly/PositConf24](https://pharmar.github.io/events-positconf2024)</span>"
   - name: "<br>"
   - name: _On behalf of the team:_
